@@ -19,6 +19,6 @@
 ---
 include:
   - board: nrf52840_m2
-    shield: sofle_left
+    shield: dactyl_left
   - board: nrf52840_m2
-    shield: sofle_right
+    shield: dactyl_right

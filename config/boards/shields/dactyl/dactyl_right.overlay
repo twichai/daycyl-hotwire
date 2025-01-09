@@ -1,0 +1,7 @@
+#include "splitkb_aurora_sweep.dtsi" // The shared dtsi file is included in the overlay
+
+// Label of the right kscan node in the dtsi
+
+&default_transform {
+    col-offset = <8>;
+};
