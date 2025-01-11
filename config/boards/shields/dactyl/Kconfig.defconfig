@@ -1,4 +1,4 @@
-if SHIELD_DACTYL_LEFT
+if SHIELD_DACTYL_RIGHT
 
 # Name must be less than 16 characters long!
 config ZMK_KEYBOARD_NAME
